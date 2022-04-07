@@ -30,3 +30,9 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+/public/robots.txt
+/public/cap-sul-0.xml
+/public/cap-sul-1.xml
+/public/cap-sul.xml
+
